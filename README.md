@@ -8,7 +8,7 @@ A small part of a program (or web application based on Laravel) to organize the 
  Connect drivers to bicycles so that each bike knows who is currently using it in a way that can determine the time of exit and return.
  Send a **notification **to the manager's account when a bicycle comes out and when it returns
  
-** Techniques used  **:
+** Techniques used ** :
    -   bootstrap for modal
    -   laravelcollective/html for form builder
    -  mailgun-mailer for mail service
